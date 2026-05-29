@@ -1,4 +1,5 @@
-#include  <stdio.h>  
+//write a program to find the sum of first n natural numbers
+#include <stdio.h>  
 int main() {
     int n, i, sum=0;
     printf("enter the n natural numbers:");
