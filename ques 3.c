@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // Write a program to count the number of digits in a given number.
+=======
+//Write a program to count the number of digits in a given number.
+>>>>>>> 064c965d1ab0da584299faa299015c63b842135b
 #include <stdio.h>
 
 int main() {

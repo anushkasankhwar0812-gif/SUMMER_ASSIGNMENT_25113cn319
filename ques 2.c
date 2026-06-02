@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // Write a program to find the factorial of a number using recursion.
+=======
+//Write a program to find the factorial of a number using recursion
+>>>>>>> 064c965d1ab0da584299faa299015c63b842135b
 #include <stdio.h>
 int factorial(int n) {
     if (n == 0 || n == 1) {
